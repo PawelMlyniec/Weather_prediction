@@ -9,7 +9,7 @@ For example given five days Mon-Fri predict weather on Friday given Monday, Tues
 Try different architectures. 
 
 ## Data
-Dataset is in folder Data.
+Dataset is in folder data.
 
 Data description as in https://www.kaggle.com/selfishgene/historical-hourly-weather-data
 
