@@ -1,4 +1,4 @@
-# Weather_prediction
+# Weather prediction
 
 ## Task
 Given a dataset of weather data for different cities and days, train MLP network to predict mean temperature and whether there will be strong wind ( >= 8m/s) on the fith day.
