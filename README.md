@@ -62,7 +62,7 @@ Project is done as a part of the course "Neural Networks" at Warsaw University o
 ![alt text](https://github.com/PawelMlyniec/Weather_prediction/blob/main/graphs/base_model.png)
 ### Base model with normalization layer
 ![alt text](https://github.com/PawelMlyniec/Weather_prediction/blob/main/graphs/base_model_norm.png)
-### Pretrained model predicting forth day
+### Pretrained model predicting fourth day
 ![alt text](https://github.com/PawelMlyniec/Weather_prediction/blob/main/graphs/model_4d.png)
 ### Model using pretrained model
 ![alt text](https://github.com/PawelMlyniec/Weather_prediction/blob/main/graphs/model_4d_2.png)
